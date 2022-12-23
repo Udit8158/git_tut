@@ -1,5 +1,5 @@
 <<<<<<< Updated upstream
-New one
+New one Add my ssh key
 =======
 Hello
 >>>>>>> Stashed changes
